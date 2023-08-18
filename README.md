@@ -1,4 +1,4 @@
-# vagrant-fedora
+# vagrant-almalinux
 
 ## What is Vagrant?
 
@@ -9,7 +9,7 @@ The getting started tutorials use Vagrant with VirtualBox, since it is free and 
 
 More details on the official Vagrant [website](https://developer.hashicorp.com/vagrant/tutorials/getting-started/getting-started-index).
 
-## Installation of a Fedora 37 virtual machine
+## Installation of a AlmaLinux 8 virtual machine
 
 To have the support of the [KVM](https://www.linux-kvm.org/page/Main_Page) for developping LXC containers in this virtual machine, I've choosen the [libvirt provider](https://github.com/vagrant-libvirt/vagrant-libvirt) instead of VirtualBox (by default).
 
